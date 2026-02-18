@@ -122,4 +122,4 @@ End-to-end pipeline that downloads scientific papers from arXiv, extracts figure
 
 ---
 
-<sub>This profile is a living document. Projects folder grows as I build.</sub>
+<sub>This profile is a living document. The projects folder grows as I build.</sub>
