@@ -10,23 +10,27 @@
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/ProPriyam)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/ProPriyam)
 
-> I build things at the intersection of infrastructure and intelligence -- cloud-scale storage by day, ML systems by obsession.
+> I build things at the intersection of infrastructure and intelligence -- and random stuff too.
 
-Currently engineering **Azure UltraDisk** at Microsoft. Before that, shipped ML pipelines at Mercer|Mettl. I like working close to the metal and close to the model.
+Currently engineering **Azure UltraDisk** at Microsoft. Before that, shipped ML systems at Mercer|Mettl mostly around speech detection across regions and accents.
 
 ---
 
 ## What I'm Building
 
-- Scaling block storage infrastructure for Azure's most demanding workloads
-- Tinkering with AI/ML side projects whenever a problem catches my eye
-- Maintaining a growing collection of project write-ups (see below)
+- Mainly Ultradisk, which is the Azure's premium high performance offering for IO-sensitive, latency-sensitive workloads.
+- Tinkering and Maintaining growing collection of random projects.
+- Have a lot of private finance repos that I plan to public, one by one as they stop making money :(
+
+---
+
+## Projects
 
 ---
 
 ## The Lab -- Project Archive
 
-> Projects I've built and documented. This section grows as I ship more things.
+> Projects I've built and documented. Old Stuff
 
 <details>
 <summary><b>Bookworm</b> -- Multi-Modal Book Recommendation Engine</summary>
@@ -91,25 +95,6 @@ End-to-end pipeline that downloads scientific papers from arXiv, extracts figure
 [View on GitHub](https://github.com/ProPriyam/scientific-paper-extraction)
 
 </details>
-
----
-
-## Selected Repos
-
-| Project | What it does |
-|---|---|
-| [**Basketball-Analysis**](https://github.com/ProPriyam/Basketball-Analysis) | Sports analytics with Python |
-| [**BBC-Summarizer**](https://github.com/ProPriyam/BBC-Summarizer) | GPT-3.5 powered article extraction and summarization from BBC |
-| [**bubble-progress-clouds**](https://github.com/ProPriyam/bubble-progress-clouds) | Visual progress tracking component (TypeScript) |
-| [**Smart-India-Hackathon**](https://github.com/ProPriyam/Smart-India-hackathon) | Hackathon project -- national competition entry |
-| [**SmartCart-Object-Detection**](https://github.com/ProPriyam/SmartCart-Object-Detection) | YOLO-based grocery product detection |
-| [**GrocerEye**](https://github.com/ProPriyam/GrocerEye) | Grocery object detection with YOLO |
-
----
-
-## GitHub Activity
-
-[![GitHub Contribution Graph](https://ghchart.rshah.org/ProPriyam)](https://github.com/ProPriyam)
 
 ---
 
