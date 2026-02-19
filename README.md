@@ -1,6 +1,6 @@
-# Hey, I'm Priyam
+# Hey, I'm Priyam :)
 
-**SWE @ Microsoft** | **Ex-MLE @ Mercer|Mettl** | **Infra + AI/ML Builder**
+**SWE @ Microsoft** | **Ex-MLE @ Mercer|Mettl**
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/ProPriyam)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/ProPriyam)
@@ -8,7 +8,6 @@
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/ProPriyam)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/ProPriyam)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/ProPriyam)
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/ProPriyam)
 
 > I build things at the intersection of infrastructure and intelligence -- and random stuff too.
 
