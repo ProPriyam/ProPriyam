@@ -25,9 +25,7 @@ Currently engineering **Azure UltraDisk** at Microsoft. Before that, shipped ML 
 
 ## Projects
 
-**[Scholar MCP](https://github.com/ProPriyam/Scholar-MCP)** -- Local MCP server that gives AI coding agents the ability to search Google Scholar. Search papers by topic or author, with pagination and year filtering. Scrapes results with requests + BeautifulSoup -- no API keys, no paid services.
-
-**Stack:** Python, MCP, BeautifulSoup, requests
+**[Scholar MCP](https://github.com/ProPriyam/Scholar-MCP)** -- Local MCP server that gives AI coding agents the ability to search Google Scholar. Scrapes results with requests + BeautifulSoup -- no API keys, no paid services.
 
 ---
 
