@@ -18,8 +18,7 @@ Currently engineering **Azure UltraDisk** at Microsoft. Before that, shipped ML 
 ## What I'm Building
 
 - Mainly Ultradisk, which is the Azure's premium high performance offering for IO-sensitive, latency-sensitive workloads.
-- Tinkering and Maintaining growing collection of random projects.
-- Have a lot of private finance repos that I plan to public, one by one as they stop making money :(
+- Tinkering and Maintaining growing collection of random projects and research.
 
 ---
 
