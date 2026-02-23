@@ -25,36 +25,15 @@ Currently engineering **Azure UltraDisk** at Microsoft. Before that, shipped ML 
 
 ## Projects
 
-**[Scholar MCP](https://github.com/ProPriyam/Scholar-MCP)** -- Local MCP server that gives AI coding agents the ability to search Google Scholar. Search papers by topic or author, with pagination and year filtering. Scrapes results with requests + BeautifulSoup -- no API keys, no paid services.
+**[Scholar MCP](https://github.com/ProPriyam/Scholar-MCP)** -- Local MCP server that lets AI coding agents search Google Scholar for papers by topic or author.
 
-**Stack:** Python, MCP, BeautifulSoup, requests
+**[Bookworm](https://github.com/jacobp24/bookworm_rec)** -- Multi-modal book recommendation engine using semantic search across plots, authors, and genres.
 
 ---
 
 ## The Lab -- Project Archive
 
 > Projects I've built and documented. Old Stuff
-
-<details>
-<summary><b>Bookworm</b> -- Multi-Modal Book Recommendation Engine</summary>
-
-<br/>
-
-A personalized book recommendation tool that goes beyond ratings and genres. Uses **semantic search** across multiple modalities to answer questions like *"What are some books where the MC dies?"* or *"What are similar Agatha Christie books?"*
-
-**Stack:** Python, Streamlit, VoyageAI, KNN caching
-
-**How it works:**
-- Combines the Book Crossing Dataset, CMU Book Summary corpus, and Google Books API
-- Generates recommendation embeddings via VoyageAI for semantic similarity
-- Supports author-based, plot-based, and genre-based discovery
-- Database similarity KNN caching for fast, relevant results
-
-> Started as a personal itch -- I just wanted a better book recommendation for myself. Turned into a proof-of-concept for multi-modal search in recommendation systems.
-
-[View on GitHub](https://github.com/jacobp24/bookworm_rec)
-
-</details>
 
 <details>
 <summary><b>ML Ransomware Detection</b> -- Catching Ransomware in Virtual Machines (NetApp)</summary>
